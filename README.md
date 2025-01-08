@@ -70,9 +70,4 @@ $ exit
 ## Contributions
 Feel free to fork this repository, create issues, or submit pull requests if you'd like to improve or extend this project. Any feedback or suggestions are welcome!
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Thank you for checking out this project! 😊 I hope it helps you learn more about the inner workings of shells and inspires you to build something awesome.
